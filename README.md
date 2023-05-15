@@ -1,18 +1,18 @@
 # Comparation
 
 
-Compute
+## Compute
 
-Other Compute Services Comparison
 
-Storage
 
-Database
+## Storage
 
-Other Database Services Comparison
+## Database
 
-Networking
 
-Other Networking Services Comparison
 
-Security and Identity
+## Networking
+
+
+
+## Security and Identity
